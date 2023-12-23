@@ -3,6 +3,7 @@
     color:blueviolet;
     font-size:1.4em;
     border-color: brown;
+    border:1px solid gray;
 }
 body{
     text-align: center;
